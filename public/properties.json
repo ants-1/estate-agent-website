@@ -1,0 +1,207 @@
+{
+    "properties": [
+        {
+            "id": "prop1",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 230000,
+            "tenure": "Freehold",
+            "description": "A modern one-bedroom purpose-built flat in a highly sought-after location, tailor-made for first-time buyers and commuters. Step into the inviting living room, drenched in natural light, creating an ideal space for hosting guests or unwinding after a busy day. ",
+            "location": {
+                "name": "Brandram, Beckenham, Kent BR3",
+                "lat": 51.39185,
+                "lon": -0.03871
+            },
+            "picture": "/images/prop1/prop1-pic1-large.png",
+            "images": {
+                "image1": "/images/prop1/prop1-pic2-small.png",
+                "image2": "/images/prop1/prop1-pic3-small.png",
+                "image3": "/images/prop1/prop1-pic4-small.png",
+                "image4": "/images/prop1/prop1-pic5-small.png",
+                "image5": "/images/prop1/prop1-pic6-small.png",
+                "image6": "/images/prop1/prop1-pic7-small.png"
+            },  
+            "floorplan": "/images/prop1/prop1-floorplan.png",
+            "url": "properties/prop1.html",
+            "added": {
+                "month": "October",
+                "day": 12,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop2",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 4584,
+            "tenure": "Leasehold",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee...",
+            "location": {
+                "name": "Church Hill Caterham CR3",
+                "lat": 51.28112,
+                "lon": -0.08211
+            },
+            "picture": "/images/prop2/prop2-pic1-large.png",
+            "images": {
+                "image1": "/images/prop2/prop2-pic2-small.png",
+                "image2": "/images/prop2/prop2-pic3-small.png",
+                "image3": "/images/prop2/prop2-pic4-small.png",
+                "image4": "/images/prop2/prop2-pic5-small.png",
+                "image5": "/images/prop2/prop2-pic6-small.png",
+                "image6": "/images/prop2/prop2-pic7-small.png"
+            },  
+            "floorplan": "/images/prop2/prop2-floorplan.png",
+            "url": "properties/prop2.html",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 2396,
+            "tenure": "Leasehold",
+            "description": "A brand new development of apartments in leafy Kenley, located directly adjacent to Kenley Train Station, making these homes a commuters dream. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. Finished to an exceptional standard, with attention to detail throughout complemented by traditional solid brick and block construction with steel beams and solid floors, these are some of the best new homes available on the market.",
+            "location": {
+                "name": "Kenley Lane Kenley CR8",
+                "lat": 51.31879,
+                "lon": -0.09869
+            },
+            "picture": "/images/prop3/prop3-pic1-large.png",
+            "images": {
+                "image1": "/images/prop3/prop3-pic2-small.png",
+                "image2": "/images/prop3/prop3-pic3-small.png",
+                "image3": "/images/prop3/prop3-pic4-small.png",
+                "image4": "/images/prop3/prop3-pic5-small.png",
+                "image5": "/images/prop3/prop3-pic6-small.png",
+                "image6": "/images/prop3/prop3-pic7-small.png"
+            },  
+            "floorplan": "/images/prop3/prop3-floorplan.png",
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "October",
+                "day": 1,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 370000,
+            "tenure": "Freehold",
+            "description": "Here is a charming and spacious first floor two bedroom maisonette. Situated along the Godstone Road and benefiting from its own private front garden, the property has been lovingly cared for but could benefit from some updating in areas such as the installation of gas central heating, but offers a wonderful canvas to create a new grand design.",
+            "location": {
+                "name": "Godstone Road Kenley CR8",
+                "lat": 51.32382,
+                "lon": -0.09552
+            },
+            "picture": "/images/prop4/prop4-pic1-large.png",
+            "images": {
+                "image1": "/images/prop4/prop4-pic2-small.png",
+                "image2": "/images/prop4/prop4-pic3-small.png",
+                "image3": "/images/prop4/prop4-pic4-small.png",
+                "image4": "/images/prop4/prop4-pic5-small.png",
+                "image5": "/images/prop4/prop4-pic6-small.png",
+                "image6": "/images/prop4/prop4-pic7-small.png"
+            },  
+            "floorplan": "/images/prop4/prop4-floorplan.png",
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "January",
+                "day": 4,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 3750,
+            "tenure": "Leasehold",
+            "description": "A fantastic, two double bedroom 556 Sq Ft period converted flat inside an elegant detached Victorian building, finished to a excellent standard with modern fixtures and features, this apartment also boasts a 69 ft rear private garden. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. Located on a quiet residential road, the excellent transport links of Penge West, Penge East, Sydenham, Anerley and Crystal Palace are all within easy reach as are the local amenities of Penge High street.",
+            "location": {
+                "name": "Tennyson Road London SE20",
+                "lat": 51.41647,
+                "lon": -0.04825
+            },
+            "picture": "/images/prop5/prop5-pic1-large.png",
+            "images": {
+                "image1": "/images/prop5/prop5-pic2-small.png",
+                "image2": "/images/prop5/prop5-pic3-small.png",
+                "image3": "/images/prop5/prop5-pic4-small.png",
+                "image4": "/images/prop5/prop5-pic5-small.png",
+                "image5": "/images/prop5/prop5-pic6-small.png",
+                "image6": "/images/prop5/prop5-pic7-small.png"
+            }, 
+            "floorplan": "/images/prop5/prop5-floorplan.png", 
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "June",
+                "day": 15,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 360000,
+            "tenure": "Freehold",
+            "description": "An opportunity to purchase this three bedroom semi detached house situated within a few minutes walk of St Mary Station. Although in need of updating the property offers much potential & is Chain Free. * double glazing * central heating (untested) * shared driveway & garage * complete updating required * much potential * close to station & shops * chain free *",
+            "location": {
+                "name": "Sayes Court Road, Orpington, BR5",
+                "lat": 51.39599,
+                "lon": 0.10498
+            },
+            "picture": "/images/prop6/prop6-pic1-large.png",
+            "images": {
+                "image1": "/images/prop6/prop6-pic2-small.png",
+                "image2": "/images/prop6/prop6-pic3-small.png",
+                "image3": "/images/prop6/prop6-pic4-small.png",
+                "image4": "/images/prop6/prop6-pic5-small.png",
+                "image5": "/images/prop6/prop6-pic6-small.png",
+                "image6": "/images/prop6/prop6-pic7-small.png"
+            },  
+            "floorplan": "/images/prop6/prop6-floorplan.png",
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "May",
+                "day": 20,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 3250,
+            "tenure": "Leasehold",
+            "description": "This well presented two bedroom first floor apartment is situated on Bromley Grove which is conveniently located within ½ a mile of Shortlands railway station. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This flat offers fantastic transport links to Central London and various local amenities, including Cafes, pubs and nearby Kelsey Park.",
+            "location": {
+                "name": "Bromley Grove Bromley BR2",
+                "lat": 51.40325,
+                "lon": -0.00442
+            },
+            "picture": "/images/prop7/prop7-pic1-large.png",
+            "url": "properties/prop7.html",
+            "images": {
+                "image1": "/images/prop7/prop7-pic2-small.png",
+                "image2": "/images/prop7/prop7-pic3-small.png",
+                "image3": "/images/prop7/prop7-pic4-small.png",
+                "image4": "/images/prop7/prop7-pic5-small.png",
+                "image5": "/images/prop7/prop7-pic6-small.png",
+                "image6": "/images/prop7/prop7-pic7-small.png"
+            },  
+            "floorplan": "/images/prop7/prop7-floorplan.png",
+            "added": {
+                "month": "September",
+                "day": 22,
+                "year": 2022
+            }
+        }
+    ]
+}

@@ -1,3 +1,11 @@
+# Extra dependencies required for running the app
+	npm install
+	npm install react-tabs
+	npm install react-widgets
+	npm install react-router-dom
+    npm install react-dnd @types/react-dnd
+    npm install react-dnd-html5-backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
